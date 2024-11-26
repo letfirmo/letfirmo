@@ -15,6 +15,4 @@ Hello! I'm Leticia Oliveira, Computer Engineering student. Here, you will find t
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=letfirmo&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<img src="\image\octocat-1732587777443.png" alt="My octocat">
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
