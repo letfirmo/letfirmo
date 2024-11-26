@@ -1,6 +1,8 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c9f1038d-fc64-4bf0-9d0d-10cc1f433aab" width="200px"/>
+</div>
 # 💫 About Me:
 Hello! I'm Leticia Oliveira, Computer Engineering student. Here, you will find the projects I work on during my independent studies.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leticia-soliveira) 
